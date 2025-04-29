@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-josephasg.vercel.app/api/spotify)](https://open.spotify.com/user/21gxmq2jnnygaau43mmkkur5q)
+<br/>
+---
 <!--
 **JosephASG/JosephASG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
