@@ -68,26 +68,26 @@
 # 🚀 Featured Projects
 
 ### 💻 Web Apps
-- 🔐 <a href="https://hezkell.lenai.us/">Hezkell Pswrd Manager</a> – Minimalist Password Manager
-- 🤖 <a href="https://lia-copilot.vercel.app/">Lia Copilot</a> – AI-powered personal assistant
+- 🔐 <a href="https://hezkell.lenai.us/" target="_blank">Hezkell Pswrd Manager</a> – Minimalist Password Manager
+- 🤖 <a href="https://lia-copilot.vercel.app/" target="_blank">Lia Copilot</a> – AI-powered personal assistant
 ### 🎮 Interactive Frontend & 🎨 UI/UX Design 
-- 🌐 <a href="https://joseph-san.com/">Joseph Santamaria</a> – Personal Portfolio
-- 📷 <a href="https://jairlidioma.com/">Jair Lidioma</a> – Photography Portfolio
-- 📽️ <a href="https://bryanvalexander.com/">Bryan Alexander</a> – Editor/Filmmaker Portfolio
-- ⚙️ <a href="https://framernode.vercel.app/">Framernode</a> – Reactflow based node editor
+- 🌐 <a href="https://joseph-san.com/" target="_blank">Joseph Santamaria</a> – Personal Portfolio
+- 📷 <a href="https://jairlidioma.com/" target="_blank">Jair Lidioma</a> – Photography Portfolio
+- 📽️ <a href="https://bryanvalexander.com/" target="_blank">Bryan Alexander</a> – Editor/Filmmaker Portfolio
+- ⚙️ <a href="https://framernode.vercel.app/" target="_blank">Framernode</a> – Reactflow based node editor
 
 
 # 🆕 Recent Projects
-- 🌐 <a href="https://mecatec.vercel.app/">Mecatec</a> – E-commerce website
-- 📦 <a href="https://casabarukcic.vercel.app/">Casabarukcic</a> – E-commerce website
-- ⛪ <a href="https://ministeriobethel.com/">Ministerio Bethel</a> – Church website
-- 🔑 <a href="https://basic-auth-php.vercel.app/">Basic Auth PHP (BAP) </a> – A simple PHP Login/Register platform
+- 🌐 <a href="https://mecatec.vercel.app/" target="_blank">Mecatec</a> – E-commerce website
+- 📦 <a href="https://casabarukcic.vercel.app/" target="_blank">Casabarukcic</a> – E-commerce website
+- ⛪ <a href="https://ministeriobethel.com/" target="_blank">Ministerio Bethel</a> – Church website
+- 🔑 <a href="https://basic-auth-php.vercel.app/" target="_blank">Basic Auth PHP (BAP) </a> – A simple PHP Login/Register platform
 
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/josephasg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josephasg&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p> -->
