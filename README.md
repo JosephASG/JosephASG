@@ -21,14 +21,15 @@
 
 - 🧩 Creative Systems — Graphs, flows, simulations, and real-time UI
 
-- ⚙️ Fullstack — &nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+- ⚙️ Fullstack — \
+\
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-23272f?style=for-the-badge&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-030712?style=for-the-badge&logo=tailwindcss)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=black)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-085575?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=node.js)&nbsp;
 
 ---
 
@@ -39,7 +40,7 @@
     <td valign="top" style="padding-bottom: 20px; padding-right: 10px; width: 50%;">
       <h3>🎯 Featured Projects</h3>
       <ul>
-        <li>🚀 <a href="https://github.com/josephsan/tseror">Tseror</a> – Generador visual con IA y Cloudinary.</li>
+        <li>🚀 <a href="https://github.com/josephsan/tseror">Hezkell Pswrd Manager</a> – Generador visual con IA y Cloudinary.</li>
         <li>🧠 <a href="https://github.com/josephsan/qubex">Qubex</a> – Asistente empresarial basado en LLMs.</li>
         <li>🖼️ <a href="https://github.com/josephsan/vercel-artgen">Vercel ArtGen</a> – Text-to-image con Vercel y Stable Diffusion.</li>
         <br/>
