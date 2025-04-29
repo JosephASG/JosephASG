@@ -6,12 +6,57 @@
 <h4>Hi there 👋🏻 welcome to my Github! I'm a Multi-disciplinary interactive developer & apprentice designer based in Ecuador, La . With 4 years of experience in multidisciplinary development. Currently working for companies worldwide. 🌐</h4> 
 </div>
 <br/>
-<br/>
 <div align="center">
-<img width="100%" height="70px" src="https://res.cloudinary.com/dvofxat7x/image/upload/v1745906740/Lenai%20Studios/bg-1_qjcggu.gif"/>
+<img width="20%" src="https://res.cloudinary.com/dvofxat7x/image/upload/v1745910067/Lenai%20Studios/bg-7_cudz9g.gif"/>
 </div>
 <br/>
-<br/>
+
+### 👨‍🎨 What I Do
+
+- 🎮 Interactive Frontend — WebGL, GSAP, shaders, and Three.js experiences
+
+- 🤖 AI Apps — Chat-based interfaces, document agents, image generators
+
+- 🧠 LLM Engineering — Prompts, pipelines, memory, and tool use
+
+- 🧩 Creative Systems — Graphs, flows, simulations, and real-time UI
+
+- ⚙️ Fullstack — &nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+---
+
+### 🚀 Projects
+
+<table width="100%" style="padding-bottom: 20px;">
+  <tr>
+    <td valign="top" style="padding-bottom: 20px; padding-right: 10px; width: 50%;">
+      <h3>🎯 Featured Projects</h3>
+      <ul>
+        <li>🚀 <a href="https://github.com/josephsan/tseror">Tseror</a> – Generador visual con IA y Cloudinary.</li>
+        <li>🧠 <a href="https://github.com/josephsan/qubex">Qubex</a> – Asistente empresarial basado en LLMs.</li>
+        <li>🖼️ <a href="https://github.com/josephsan/vercel-artgen">Vercel ArtGen</a> – Text-to-image con Vercel y Stable Diffusion.</li>
+        <br/>
+      </ul>
+    </td>
+    <td valign="top" style="padding-bottom: 20px; padding-left: 10px; width: 50%;">
+      <h3>🆕 Recent Projects</h3>
+      <ul>
+        <li>🎧 <a href="https://github.com/josephsan/spotify-readme">Spotify Readme</a> – Muestra tu música en tu README.</li>
+        <li>🔐 <a href="https://github.com/josephsan/hezkell">Hezkell</a> – Gestor de contraseñas simple y seguro.</li>
+        <li>📦 <a href="https://github.com/josephsan/giveaway-platform">Giveaway Platform</a> – Plataforma de sorteos con pagos y asignación de números.</li>
+        <br/>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -26,6 +71,11 @@
 ### Now Playing 🎧
 <div align="center">
 <img src="https://github-readme-josephasg.vercel.app/api/spotify"/>
+</div>
+
+<br/>
+<div align="center">
+<img width="100%" src="https://res.cloudinary.com/dvofxat7x/image/upload/v1745909991/Lenai%20Studios/banner-bottom_kaftcb.jpg"/>
 </div>
 
 <!--
