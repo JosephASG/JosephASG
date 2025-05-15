@@ -99,6 +99,13 @@
 <img src="https://github-readme-josephasg.vercel.app/api/spotify"/>
 </div>
 
+### Steam Status 🎮
+<div align="center">
+<a href="https://steamcommunity.com/profiles/76561198285578565/" target="_blank">
+  <img src="https://github-readme-josephasg.vercel.app/api/steam" alt="Steam Activity" />
+</a>
+</div>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
