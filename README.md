@@ -79,7 +79,7 @@
 
 # 🆕 Recent Projects
 - 🌐 <a href="https://mecatec.vercel.app/" target="_blank">Mecatec</a> – E-commerce website
-- 📦 <a href="https://casabarukcic.vercel.app/" target="_blank">Casabarukcic</a> – E-commerce website
+- 📦 <a href="https://casabarukcic.com/" target="_blank">Casabarukcic</a> – E-commerce website
 - ⛪ <a href="https://ministeriobethel.com/" target="_blank">Ministerio Bethel</a> – Church website
 - 🔑 <a href="https://basic-auth-php.vercel.app/" target="_blank">Basic Auth PHP (BAP) </a> – A simple PHP Login/Register platform
 
