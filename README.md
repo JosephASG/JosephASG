@@ -50,6 +50,11 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)&nbsp;
 
+- 🖥 Desktop Apps — \
+\
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=fff)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)&nbsp;
+
 - ⚙️ Fullstack — \
 \
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
@@ -70,14 +75,16 @@
 ### 💻 Web Apps
 - 🔐 <a href="https://hezkell.lenai.us/" target="_blank">Hezkell Pswrd Manager</a> – Minimalist Password Manager
 - 🤖 <a href="https://lia-copilot.vercel.app/" target="_blank">Lia Copilot</a> – AI-powered personal assistant
+
 ### 🎮 Interactive Frontend & 🎨 UI/UX Design 
 - 🌐 <a href="https://joseph-san.com/" target="_blank">Joseph Santamaria</a> – Personal Portfolio
 - 📷 <a href="https://jairlidioma.com/" target="_blank">Jair Lidioma</a> – Photography Portfolio
 - 📽️ <a href="https://bryanvalexander.com/" target="_blank">Bryan Alexander</a> – Editor/Filmmaker Portfolio
 - ⚙️ <a href="https://framernode.vercel.app/" target="_blank">Framernode</a> – Reactflow based node editor
 
-
 # 🆕 Recent Projects
+- 🤖 <a href="https://shemaiawispr.com/" target="_blank">Shemaia Wispr</a> – No typing. Just talking (Voice-to-text AI)
+- 👷🏻‍♂️ <a href="https://jflipsolutions.com/" target="_blank">J Flip Soluitons LLC</a> – Construction and Remodelation Services
 - 🌐 <a href="https://mecatec.vercel.app/" target="_blank">Mecatec</a> – E-commerce website
 - 📦 <a href="https://casabarukcic.com/" target="_blank">Casabarukcic</a> – E-commerce website
 - ⛪ <a href="https://ministeriobethel.com/" target="_blank">Ministerio Bethel</a> – Church website
