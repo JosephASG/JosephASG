@@ -83,10 +83,11 @@
 - ⚙️ <a href="https://framernode.vercel.app/" target="_blank">Framernode</a> – Reactflow based node editor
 
 # 🆕 Recent Projects
-- 🤖 <a href="https://shemaiawispr.com/" target="_blank">Shemaia Wispr</a> – No typing. Just talking (Voice-to-text AI)
-- 👷🏻‍♂️ <a href="https://jflipsolutions.com/" target="_blank">J Flip Soluitons LLC</a> – Construction and Remodelation Services
-- 🌐 <a href="https://mecatec.vercel.app/" target="_blank">Mecatec</a> – E-commerce website
-- 📦 <a href="https://casabarukcic.com/" target="_blank">Casabarukcic</a> – E-commerce website
+- 🤖 <a href="https://shemaiawispr.com" target="_blank">Shemaia Wispr</a> – No typing. Just talking (Voice-to-text AI)
+- 🚀 <a href="https://sacredlabs.co" target="_blank">Sacred Labs</a> – AI Powered Apps
+- 👷🏻‍♂️ <a href="https://jflipsolutions.com" target="_blank">J Flip Soluitons LLC</a> – Construction and Remodelation Services
+- 🌐 <a href="https://mecatec.vercel.app" target="_blank">Mecatec</a> – E-commerce website
+<!--- 📦 <a href="https://casabarukcic.com/" target="_blank">Casabarukcic</a> – E-commerce website -->
 - ⛪ <a href="https://ministeriobethel.com/" target="_blank">Ministerio Bethel</a> – Church website
 - 🔑 <a href="https://basic-auth-php.vercel.app/" target="_blank">Basic Auth PHP (BAP) </a> – A simple PHP Login/Register platform
 
