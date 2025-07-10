@@ -73,7 +73,7 @@
 # 🚀 Featured Projects
 
 ### 💻 Web Apps
-- 🔐 <a href="https://expenso.sacredlabs.co/" target="_blank">Expenso</a> – Expense Tracker
+- 💲 <a href="https://expenso.sacredlabs.co/" target="_blank">Expenso</a> – Expense Tracker
 - 🤖 <a href="https://lia-copilot.vercel.app/" target="_blank">Lia Copilot</a> – AI-powered personal assistant
 
 ### 🎮 Interactive Frontend & 🎨 UI/UX Design 
