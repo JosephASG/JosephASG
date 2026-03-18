@@ -78,7 +78,7 @@
 ### 🎮 Interactive Frontend & 🎨 UI/UX Design 
 - 🌐 <a href="https://joseph-san.com/" target="_blank">Joseph Santamaria</a> – Personal Portfolio
 
-# 🆕 Recent Projects
+### 🆕 Recent Projects
 - 🤖 <a href="https://shemaiawispr.com" target="_blank">Shemaia Wispr</a> – No typing. Just talking (Voice-to-text AI)
 
 <!--- - 🚀 <a href="https://sacredlabs.co" target="_blank">Sacred Labs</a> – AI Powered Apps -->
