@@ -72,24 +72,16 @@
 
 # 🚀 Featured Projects
 
-### 💻 Web Apps
+<!--- ### 💻 Web Apps
 - 💲 <a href="https://expenso.sacredlabs.co/" target="_blank">Expenso</a> – Expense Tracker
-- 🤖 <a href="https://lia-copilot.vercel.app/" target="_blank">Lia Copilot</a> – AI-powered personal assistant
-
+- 🤖 <a href="https://lia-copilot.vercel.app/" target="_blank">Lia Copilot</a> – AI-powered personal assistant -->
 ### 🎮 Interactive Frontend & 🎨 UI/UX Design 
 - 🌐 <a href="https://joseph-san.com/" target="_blank">Joseph Santamaria</a> – Personal Portfolio
-- 📷 <a href="https://jairlidioma.com/" target="_blank">Jair Lidioma</a> – Photography Portfolio
-- 📽️ <a href="https://bryanvalexander.com/" target="_blank">Bryan Alexander</a> – Editor/Filmmaker Portfolio
-- ⚙️ <a href="https://framernode.vercel.app/" target="_blank">Framernode</a> – Reactflow based node editor
 
 # 🆕 Recent Projects
 - 🤖 <a href="https://shemaiawispr.com" target="_blank">Shemaia Wispr</a> – No typing. Just talking (Voice-to-text AI)
-- 🚀 <a href="https://sacredlabs.co" target="_blank">Sacred Labs</a> – AI Powered Apps
-- 👷🏻‍♂️ <a href="https://jflipsolutions.com" target="_blank">J Flip Soluitons LLC</a> – Construction and Remodelation Services
-- 🌐 <a href="https://mecatec.vercel.app" target="_blank">Mecatec</a> – E-commerce website
-- ⛪ <a href="https://ministeriobethel.com/" target="_blank">Ministerio Bethel</a> – Church website
-- 🔑 <a href="https://basic-auth-php.vercel.app/" target="_blank">Basic Auth PHP (BAP) </a> – A simple PHP Login/Register platform
-<!--- 📦 <a href="https://casabarukcic.com/" target="_blank">Casabarukcic</a> – E-commerce website -->
+
+<!--- - 🚀 <a href="https://sacredlabs.co" target="_blank">Sacred Labs</a> – AI Powered Apps -->
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
